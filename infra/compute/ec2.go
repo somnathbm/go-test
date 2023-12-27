@@ -1,4 +1,4 @@
-package infra/compute
+package compute
 
 import "fmt"
 
